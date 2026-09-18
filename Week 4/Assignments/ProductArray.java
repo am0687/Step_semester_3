@@ -1,5 +1,3 @@
-package week4_Assignment;
-
 import java.util.Arrays;
 
 public class ProductArray {
